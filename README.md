@@ -1,4 +1,5 @@
-# 🛡️ AI Powered Sandboxed EDR Copytight By Mahendra Ribadiya
+# 🛡️ AI Powered Sandboxed EDR CopyRight By Mahendra Ribadiya  
+Founder of https:/www.quantsafe-ai.com
 
 AI-powered, sandboxed EDR written in Rust for cross-platform endpoint protection (Linux & Windows).
 
